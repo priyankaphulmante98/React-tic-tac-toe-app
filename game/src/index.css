@@ -1,5 +1,9 @@
 body {
-  background-color: coral;
+  /* background-color: coral; */
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDZdpH5s1p4eZAya14OlzgTbkrzVCgDBySg&usqp=CAU");
+  background-size: cover;
+  background-repeat: no-repeat;
+
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",

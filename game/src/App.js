@@ -5,7 +5,7 @@ function App() {
   const [winner, setWinner] = useState(0);
   return (
     <div className="App">
-      <h1>Tic Tac Toe</h1>
+      <h1> priya Tic Tac Toe App</h1>
       <Grid setWinner={setWinner} winner={winner} />
       {winner == 1 || winner == 2 ? (
         <h2>Yeahh! Player {winner} is the winner</h2>
