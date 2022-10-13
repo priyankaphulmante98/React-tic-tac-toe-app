@@ -14,5 +14,5 @@
 
 Thank you for taking the time to read. If you want to check this project out, feel free to go through this link-
 -  Live project ==> https://game-sepia.vercel.app 
--  github project ==> https://github.com/priyankaphulmante98/React-tic-tac-toe-app" 
+-  github project ==> https://github.com/priyankaphulmante98/React-tic-tac-toe-app
 
