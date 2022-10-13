@@ -1,6 +1,10 @@
 
 # Tic-Tac-Toe App Using React to make
-# In this project you will learn how to build Tic-Tac-Toe in React with functional Components and the useState hook.
+<hr />
+
+  <img src="https://github.com/priyankaphulmante98/React-tic-tac-toe-app/blob/main/game/images/Tiktak.png" alt="tik" />
+  
+ In this project you will learn how to build Tic-Tac-Toe in React with functional Components and the useState hook.
 
 - You will learn how to use .map() to render enumerable elements in React, how to use the useState hook, how to pass functions as props to components with destructuring, and ternary operators.
 
