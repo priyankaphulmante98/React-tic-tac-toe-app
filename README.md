@@ -10,9 +10,9 @@
  -  <img src="https://github.com/priyankaphulmante98/React-tic-tac-toe-app/blob/main/game/images/Tiktak.png" alt="tik" />
   
  - The Game Architecture
- - We will create 3 react components: Game, Square and a restart button. The Game component will contain 9 Squares, the restart button and a text displaying the game     status — whose turn it is or who won.
+ - We will create 3 react components: Game, Square and a restart button. The Game component will contain 9 Squares, the restart button and a text displaying the game     ,br />status — whose turn it is or who won.
 
 Thank you for taking the time to read. If you want to check this project out, feel free to go through this link-
- Live project ==> https://game-sepia.vercel.app 
- github project ==> https://github.com/priyankaphulmante98/React-tic-tac-toe-app" 
+-  Live project ==> https://game-sepia.vercel.app 
+-  github project ==> https://github.com/priyankaphulmante98/React-tic-tac-toe-app" 
 
